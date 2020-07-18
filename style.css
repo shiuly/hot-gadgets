@@ -1,0 +1,29 @@
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+
+.carousel-bg{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100px 100px;
+    background-position-x: left;
+}
+.carousel-inner{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size:auto;
+}

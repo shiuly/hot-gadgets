@@ -25,5 +25,23 @@
     background-image: url(images/bg-1.png);
     background-repeat: no-repeat;
     background-position-x: center;
-    background-size:auto;
+    background-size:80px;
+}
+h6{
+    color: orange;
+    
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+   
+}
+.card img{
+    width: 80%;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    
 }

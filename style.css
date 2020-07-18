@@ -45,3 +45,27 @@ h6{
     background-color: white;
     
 }
+.categories h2{
+ 
+  
+        text-decoration: underline ;
+    padding-top: 20px;
+  
+}
+.row{
+   
+    padding: 20px;
+    
+   
+
+}
+.row img{
+    width: 80%;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
+
+}
+.bag,.beauty,.order{
+    padding: 10px;
+   
+}
